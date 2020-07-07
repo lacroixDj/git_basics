@@ -1,4 +1,3 @@
 Esto es una prueba de como funciona el Git revert!!!
-Esta linea la vamos a committear y luego la vamos a revertir
 Esta segunda linea la vamos a committear y luego la vamos a revertir
 Otro revert pero por UI
